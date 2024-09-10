@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name: Jamie
 
-3. Enter your favourite animal: Dog
+3. Enter your favourite animal: cat
 
 4. Now click the green 'commit changes' button at the bottom.
 
